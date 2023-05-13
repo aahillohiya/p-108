@@ -1,0 +1,36 @@
+#img_div{
+    background-color: rgb(27, 183, 134);
+}
+
+body{
+    font-family: 'Roboto Mono', monospace;
+    background-color: rgb(89, 188, 86);
+}
+
+.header_div{
+    background-color:rgb(223, 83, 178) ;
+    color: rgb(58, 87, 12);
+}
+
+.header_div h6{
+    color: rgb(246, 209, 175);
+    font-family: fantasy;
+}
+
+.main_div button{    
+    font-family: 'Tourney', cursive;
+    font-size: large;
+    width: max-content;
+}
+
+.copyrightfooter{
+    position: fixed;
+    color: rgba(201, 185, 221, 0.703);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(0, 0, 0);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(255, 255, 255);
+}
